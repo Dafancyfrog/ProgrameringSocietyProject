@@ -1,0 +1,14 @@
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).csproj.AssemblyReference.cache
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).AssemblyInfoInputs.cache
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).AssemblyInfo.cs
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).csproj.CoreCompileInputs.cache
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).exe
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).deps.json
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).runtimeconfig.json
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).runtimeconfig.dev.json
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).dll
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\bin\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).pdb
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).dll
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).pdb
+C:\Users\Felix.samuelsson\source\repos\Programeringsprojekt(samhälle)\Programeringsprojekt(samhälle)\obj\Debug\netcoreapp3.1\Programeringsprojekt(samhälle).genruntimeconfig.cache
